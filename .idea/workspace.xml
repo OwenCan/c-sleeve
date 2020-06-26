@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73bd6470-98dd-4999-a272-bd7bf5ecd2ba" name="Default Changelist" comment="0626：sleeve 商城项目" />
+    <list default="true" id="73bd6470-98dd-4999-a272-bd7bf5ecd2ba" name="Default Changelist" comment="0626：sleeve 商城项目">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +63,7 @@
       <workItem from="1592399529803" duration="2155000" />
       <workItem from="1592626871305" duration="3252000" />
       <workItem from="1592870514585" duration="316000" />
-      <workItem from="1593133532960" duration="19154000" />
+      <workItem from="1593133532960" duration="20120000" />
     </task>
     <task id="LOCAL-00001" summary="0626：sleeve 商城项目">
       <created>1593170076316</created>
@@ -70,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593170076316</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="0626：sleeve 商城项目">
+      <created>1593170242026</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593170242026</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +141,10 @@
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state width="625" height="500" key="SwitcherDM/0.23.1440.801@0.23.1440.801" timestamp="1593135846382" />
+    <state x="220" y="84" key="Vcs.Push.Dialog.v2" timestamp="1593170291936">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="220" y="84" key="Vcs.Push.Dialog.v2/0.23.1440.798@0.23.1440.798" timestamp="1593170291936" />
     <state x="100" y="123" width="1240" height="598" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1593135798631">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
@@ -140,6 +153,10 @@
       <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state x="350" y="23" width="740" height="798" key="find.popup/0.23.1440.798@0.23.1440.798" timestamp="1593161885155" />
+    <state x="469" y="176" key="git4idea.merge.GitPullDialog" timestamp="1593170108933">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="469" y="176" key="git4idea.merge.GitPullDialog/0.23.1440.798@0.23.1440.798" timestamp="1593170108933" />
     <state x="301" y="187" key="run.anything.popup" timestamp="1592639082522">
       <screen x="0" y="23" width="1440" height="798" />
     </state>
