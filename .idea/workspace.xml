@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73bd6470-98dd-4999-a272-bd7bf5ecd2ba" name="Default Changelist" comment="" />
+    <list default="true" id="73bd6470-98dd-4999-a272-bd7bf5ecd2ba" name="Default Changelist" comment="0626：sleeve 商城项目" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,8 +16,10 @@
   </component>
   <component name="Git.Settings">
     <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1dJPQrepxdV4Lu4YF0TQeLaFUKd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -59,12 +61,24 @@
       <workItem from="1592399529803" duration="2155000" />
       <workItem from="1592626871305" duration="3252000" />
       <workItem from="1592870514585" duration="316000" />
-      <workItem from="1593133532960" duration="18854000" />
+      <workItem from="1593133532960" duration="19154000" />
     </task>
+    <task id="LOCAL-00001" summary="0626：sleeve 商城项目">
+      <created>1593170076316</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593170076316</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="0626：sleeve 商城项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="0626：sleeve 商城项目" />
   </component>
   <component name="WindowStateProjectService">
     <state x="354" y="143" key="#Inspections" timestamp="1593140246178">
@@ -81,6 +95,10 @@
       <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state x="392" y="118" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.798@0.23.1440.798" timestamp="1593161619213" />
+    <state x="100" y="123" width="1240" height="598" key="DiffContextDialog" timestamp="1593170095588">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="100" y="123" width="1240" height="598" key="DiffContextDialog/0.23.1440.798@0.23.1440.798" timestamp="1593170095588" />
     <state x="339" y="235" key="EditFileWatcherDialog" timestamp="1592352000446">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -101,6 +119,10 @@
       <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state width="1414" height="191" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1593157841196" />
+    <state x="470" y="64" key="RollbackChangesDialog" timestamp="1593169946341">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="470" y="64" key="RollbackChangesDialog/0.23.1440.798@0.23.1440.798" timestamp="1593169946341" />
     <state x="221" y="23" key="SettingsEditor" timestamp="1593169795792">
       <screen x="0" y="23" width="1440" height="798" />
     </state>
