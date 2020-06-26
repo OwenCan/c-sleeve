@@ -39,13 +39,13 @@
         </l-grid-item>
 
         <!--<block wx:for="{{grid}}">
-     &lt;!&ndash;index指定的是序号&ndash;&gt;
-     <l-grid-item key="{{index}}" slot="{{index}}">
-         <view class="grid-item">
-             <image class="img" src="{{item.img}}.png"></image>
-             <text class="text">{{item.title}}</text>
-         </view>
-     </l-grid-item>
- </block>-->
+             &lt;!&ndash;index指定的是序号&ndash;&gt;
+             <l-grid-item key="{{index}}" slot="{{index}}">
+                 <view class="grid-item">
+                     <image class="img" src="{{item.img}}.png"></image>
+                     <text class="text">{{item.title}}</text>
+                 </view>
+             </l-grid-item>
+         </block>-->
     </l-grid>
 </view>

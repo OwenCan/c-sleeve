@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73bd6470-98dd-4999-a272-bd7bf5ecd2ba" name="Default Changelist" comment="0626：sleeve 商城项目">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="73bd6470-98dd-4999-a272-bd7bf5ecd2ba" name="Default Changelist" comment="0626：sleeve 商城项目" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +61,7 @@
       <workItem from="1592399529803" duration="2155000" />
       <workItem from="1592626871305" duration="3252000" />
       <workItem from="1592870514585" duration="316000" />
-      <workItem from="1593133532960" duration="20120000" />
+      <workItem from="1593133532960" duration="20357000" />
     </task>
     <task id="LOCAL-00001" summary="0626：sleeve 商城项目">
       <created>1593170076316</created>
