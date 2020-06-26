@@ -1,0 +1,36 @@
+/* components/category-grid/index.wxss */
+
+.container {
+    height: 320rpx;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.inner-container {
+    width: 730rpx;
+    height: 300rpx;
+    border: 1px dashed #DCEBE6; /*dashed代表虚框*/
+}
+
+.grid-item {
+    /*height: 200rpx; 高度不设置，小程序会自动，
+    但是宽度也不设置，触摸的区域会很少，跳转功能也就收到限制*/
+    width: 200rpx;
+    display: flex; /*剧中*/
+    flex-direction: column;
+    align-items: center;
+}
+
+.img {
+    width: 60rpx;
+    height: 60rpx;
+}
+
+.text{
+    margin-top: 6rpx;
+    font-size: 24rpx;
+    color: #333333; 
+}

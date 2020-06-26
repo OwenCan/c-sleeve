@@ -1,0 +1,51 @@
+<!--components/category-grid/index.wxml-->
+<view class="container">
+    <l-grid l-class="inner-container"><!--row-num 为一排展示几个，不要则默认为3个-->
+        <l-grid-item key="one" slot="one">
+            <view class="grid-item">
+                <image class="img" src="/images/icon/grid1.jpg"></image>
+                <text class="text">春日</text>
+            </view>
+        </l-grid-item>
+        <l-grid-item key="two" slot="two">
+            <view class="grid-item">
+                <image class="img" src="/images/icon/grid2.png"></image>
+                <text class="text">冰果</text>
+            </view>
+        </l-grid-item>
+        <l-grid-item key="three" slot="three">
+            <view class="grid-item">
+                <image class="img" src="/images/icon/grid3.png"></image>
+                <text class="text">烈日</text>
+            </view>
+        </l-grid-item>
+        <l-grid-item key="four" slot="four">
+            <view class="grid-item">
+                <image class="img" src="/images/icon/grid4.png"></image>
+                <text class="text">冰纯</text>
+            </view>
+        </l-grid-item>
+        <l-grid-item key="five" slot="five">
+            <view class="grid-item">
+                <image class="img" src="/images/icon/grid5.png"></image>
+                <text class="text">雪花</text>
+            </view>
+        </l-grid-item>
+        <l-grid-item key="six" slot="six">
+            <view class="grid-item">
+                <image class="img" src="/images/icon/grid6.png"></image>
+                <text class="text">用心</text>
+            </view>
+        </l-grid-item>
+
+        <!--<block wx:for="{{grid}}">
+     &lt;!&ndash;index指定的是序号&ndash;&gt;
+     <l-grid-item key="{{index}}" slot="{{index}}">
+         <view class="grid-item">
+             <image class="img" src="{{item.img}}.png"></image>
+             <text class="text">{{item.title}}</text>
+         </view>
+     </l-grid-item>
+ </block>-->
+    </l-grid>
+</view>
