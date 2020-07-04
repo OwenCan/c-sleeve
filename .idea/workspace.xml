@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="73bd6470-98dd-4999-a272-bd7bf5ecd2ba" name="Default Changelist" comment="0626：sleeve 商城项目" />
+    <list default="true" id="73bd6470-98dd-4999-a272-bd7bf5ecd2ba" name="Default Changelist" comment="0626：sleeve 商城项目">
+      <change afterPath="$PROJECT_DIR$/components/spu-scroll/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/spu-scroll/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/spu-scroll/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/spu-scroll/index.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/project.config.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,12 +44,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1dJPQrepxdV4Lu4YF0TQeLaFUKd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -61,7 +89,9 @@
       <workItem from="1592399529803" duration="2155000" />
       <workItem from="1592626871305" duration="3252000" />
       <workItem from="1592870514585" duration="316000" />
-      <workItem from="1593133532960" duration="20357000" />
+      <workItem from="1593133532960" duration="20465000" />
+      <workItem from="1593497475631" duration="1037000" />
+      <workItem from="1593692551008" duration="1883000" />
     </task>
     <task id="LOCAL-00001" summary="0626：sleeve 商城项目">
       <created>1593170076316</created>
@@ -77,13 +107,33 @@
       <option name="project" value="LOCAL" />
       <updated>1593170242026</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="0626：sleeve 商城项目">
+      <created>1593171348975</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593171348975</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="0626：sleeve 商城项目" />
     <option name="LAST_COMMIT_MESSAGE" value="0626：sleeve 商城项目" />
   </component>
@@ -110,22 +160,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="339" y="235" key="EditFileWatcherDialog/0.0.1440.900@0.0.1440.900" timestamp="1592352000446" />
-    <state width="1414" height="191" key="GridCell.Tab.0.bottom" timestamp="1593157841197">
+    <state width="1414" height="191" key="GridCell.Tab.0.bottom" timestamp="1593171432665">
       <screen x="0" y="23" width="1440" height="798" />
     </state>
-    <state width="1414" height="191" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1593157841197" />
-    <state width="1414" height="191" key="GridCell.Tab.0.center" timestamp="1593157841195">
+    <state width="1414" height="191" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1593171432665" />
+    <state width="1414" height="191" key="GridCell.Tab.0.center" timestamp="1593171432663">
       <screen x="0" y="23" width="1440" height="798" />
     </state>
-    <state width="1414" height="191" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1593157841195" />
-    <state width="1414" height="191" key="GridCell.Tab.0.left" timestamp="1593157841194">
+    <state width="1414" height="191" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1593171432663" />
+    <state width="1414" height="191" key="GridCell.Tab.0.left" timestamp="1593171432662">
       <screen x="0" y="23" width="1440" height="798" />
     </state>
-    <state width="1414" height="191" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1593157841194" />
-    <state width="1414" height="191" key="GridCell.Tab.0.right" timestamp="1593157841196">
+    <state width="1414" height="191" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1593171432662" />
+    <state width="1414" height="191" key="GridCell.Tab.0.right" timestamp="1593171432664">
       <screen x="0" y="23" width="1440" height="798" />
     </state>
-    <state width="1414" height="191" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1593157841196" />
+    <state width="1414" height="191" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1593171432664" />
     <state x="470" y="64" key="RollbackChangesDialog" timestamp="1593169946341">
       <screen x="0" y="23" width="1440" height="798" />
     </state>
@@ -139,14 +189,19 @@
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state width="625" height="500" key="SwitcherDM/0.23.1440.801@0.23.1440.801" timestamp="1593135846382" />
-    <state x="220" y="84" key="Vcs.Push.Dialog.v2" timestamp="1593170291936">
+    <state x="220" y="84" key="Vcs.Push.Dialog.v2" timestamp="1593171351994">
       <screen x="0" y="23" width="1440" height="798" />
     </state>
-    <state x="220" y="84" key="Vcs.Push.Dialog.v2/0.23.1440.798@0.23.1440.798" timestamp="1593170291936" />
+    <state x="220" y="84" key="Vcs.Push.Dialog.v2/0.23.1440.798@0.23.1440.798" timestamp="1593171351994" />
     <state x="100" y="123" width="1240" height="598" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1593135798631">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="100" y="123" width="1240" height="598" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1440.801@0.23.1440.801" timestamp="1593135798631" />
+    <state x="483" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593833577463">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="483" y="323" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.795@0.23.1440.795" timestamp="1593693056984" />
+    <state x="483" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.798@0.23.1440.798" timestamp="1593833577463" />
     <state x="350" y="23" width="740" height="798" key="find.popup" timestamp="1593161885155">
       <screen x="0" y="23" width="1440" height="798" />
     </state>
