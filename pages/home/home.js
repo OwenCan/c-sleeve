@@ -11,6 +11,7 @@ Page({
      */
     data: {
         themeA: null,
+        themeE: null,
         bannerB: null,
         grid: [],
         activity:null
@@ -26,12 +27,18 @@ Page({
     },
 
     async initAllData() {
-        const themeA = await Theme.getHomeLocationA()
+        const theme = new Theme();
+        await theme.getThemes();
+
+        /*改写后，没有死的变量*/
+        const themeA = await theme.getHomeLocationA();
+        const themeE = await theme.getHomeLocationE();
+
         const bannerB = await Banner.getHomeLocationB();
         const grid = await Category.getHomeLocationC();
         const activity = await Activity.getHomeLocationD();
         this.setData({
-            themeA:themeA[0],bannerB,grid,activity
+            themeA:themeA,themeE,bannerB,grid,activity
         })
     },
 

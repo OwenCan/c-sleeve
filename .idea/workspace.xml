@@ -19,13 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73bd6470-98dd-4999-a272-bd7bf5ecd2ba" name="Default Changelist" comment="0626：sleeve 商城项目">
-      <change afterPath="$PROJECT_DIR$/components/spu-scroll/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/spu-scroll/index.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/spu-scroll/index.wxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/spu-scroll/index.wxss" afterDir="false" />
+    <list default="true" id="73bd6470-98dd-4999-a272-bd7bf5ecd2ba" name="Default Changelist" comment="0626：sleeve 创建scroll主题">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/project.config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/model/theme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/home/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home/home.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +88,7 @@
       <workItem from="1592870514585" duration="316000" />
       <workItem from="1593133532960" duration="20465000" />
       <workItem from="1593497475631" duration="1037000" />
-      <workItem from="1593692551008" duration="1883000" />
+      <workItem from="1593692551008" duration="3248000" />
     </task>
     <task id="LOCAL-00001" summary="0626：sleeve 商城项目">
       <created>1593170076316</created>
@@ -114,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593171348975</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="0626：sleeve 创建scroll主题">
+      <created>1593833617345</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593833617345</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,7 +139,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="0626：sleeve 商城项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="0626：sleeve 商城项目" />
+    <MESSAGE value="0626：sleeve 创建scroll主题" />
+    <option name="LAST_COMMIT_MESSAGE" value="0626：sleeve 创建scroll主题" />
   </component>
   <component name="WindowStateProjectService">
     <state x="354" y="143" key="#Inspections" timestamp="1593140246178">
@@ -189,10 +194,10 @@
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state width="625" height="500" key="SwitcherDM/0.23.1440.801@0.23.1440.801" timestamp="1593135846382" />
-    <state x="220" y="84" key="Vcs.Push.Dialog.v2" timestamp="1593171351994">
+    <state x="220" y="84" key="Vcs.Push.Dialog.v2" timestamp="1593833636480">
       <screen x="0" y="23" width="1440" height="798" />
     </state>
-    <state x="220" y="84" key="Vcs.Push.Dialog.v2/0.23.1440.798@0.23.1440.798" timestamp="1593171351994" />
+    <state x="220" y="84" key="Vcs.Push.Dialog.v2/0.23.1440.798@0.23.1440.798" timestamp="1593833636480" />
     <state x="100" y="123" width="1240" height="598" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1593135798631">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
